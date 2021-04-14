@@ -1,0 +1,330 @@
+.detailabout {
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.detailabout-list {
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+  margin-left: 35px;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+}
+
+.detailabout-list .listjudul {
+  color: #d6d3d3;
+  width: 90px;
+  margin-right: 20px;
+}
+
+.detailabout p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.detailabout h3 {
+  text-align: start;
+  width: 100%;
+  margin-left: 30px;
+}
+
+.detailabout {
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.detailabout-list {
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+  margin-left: 35px;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+}
+
+.detailabout-list .listjudul {
+  color: #d6d3d3;
+  width: 90px;
+  margin-right: 20px;
+}
+
+.detailabout-list .listjudul-total {
+  color: #d6d3d3;
+  width: 90px;
+  margin-right: 15px;
+}
+
+.detailabout p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.detailabout h3 {
+  text-align: start;
+  width: 100%;
+  margin-left: 30px;
+}
+
+.detailabout .line {
+  width: 100px;
+  height: 5px;
+  position: relative;
+  margin-left: 50px;
+}
+
+.detailabout .line-total {
+  width: 100px;
+  height: 5px;
+  position: relative;
+  margin-left: 42px;
+}
+
+.detailabout .line-luar {
+  position: absolute;
+  width: 100%;
+  background: #e2e2e2;
+  border: 2px solid #e2e2e2;
+}
+
+.detailabout .line-dalam {
+  z-index: 5;
+  position: absolute;
+}
+
+.detailabout {
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.detailabout-list {
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+  margin-left: 35px;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+}
+
+.detailabout-list .listjudul {
+  color: #d6d3d3;
+  width: 90px;
+  margin-right: 20px;
+}
+
+.detailabout p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.detailabout h3 {
+  text-align: start;
+  width: 100%;
+  margin-left: 30px;
+}
+
+.detailabout {
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.detailabout-list {
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+  margin-left: 35px;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+}
+
+.detailabout-list .listjudul {
+  color: #d6d3d3;
+  width: 90px;
+  margin-right: 20px;
+}
+
+.detailabout p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.detailabout h3 {
+  text-align: start;
+  width: 100%;
+  margin-left: 30px;
+}
+
+.beranda-title {
+  font-weight: bold;
+  margin-left: 20px;
+  display: flex;
+  justify-content: start;
+}
+
+.beranda-icon {
+  width: 90%;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.beranda-menu {
+  width: 90%;
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.menu {
+  width: 130px;
+  height: 70px;
+  border-radius: 15px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+.menu-isi {
+  flex-direction: column;
+}
+
+.menu-isi__name {
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.menu-isi__type1 {
+  color: white;
+  font-size: 12px;
+  width: max-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.menu-isi__type2 {
+  color: white;
+  font-size: 12px;
+  width: max-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.menu img {
+  width: 70px;
+  height: 70px;
+}
+
+.detail {
+  height: 100vh;
+}
+
+.detail-icon {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 15px;
+}
+
+.detail .detail-contitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.detail .detail-contitle__titleleft {
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.detail .detail-contitle__titleleft .detail-name {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.detail .detail-contitle__titleleft .detail-type {
+  flex-direction: row;
+  margin-right: 5px;
+}
+
+.detail .detail-contitle__titleleft .detail-type__type1, .detail .detail-contitle__titleleft .detail-type__type2 {
+  color: white;
+  font-size: 12px;
+  width: max-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 2px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.detail .detail-contitle__titleright {
+  color: white;
+}
+
+.detail img {
+  width: 200px;
+  height: 110px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.detail .detailbody {
+  background-color: white;
+  width: 100vw;
+  height: 70vh;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+}
+
+.detail .detailbody-menu {
+  width: 90%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.detail .detailbody-menu button {
+  border: 0;
+  background: none;
+}
+/*# sourceMappingURL=main.css.map */
